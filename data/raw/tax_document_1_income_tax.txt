@@ -1,0 +1,97 @@
+INCOME TAX IN INDIA — CONCEPTS, COMPUTATION AND COMPLIANCE
+Educational knowledge document for a RAG system.
+Important: Tax rates, thresholds, forms and deadlines depend on the applicable tax year and current law. This document is not personalised tax advice.
+
+1. OVERVIEW
+Income tax is a direct tax imposed on income chargeable under Indian income-tax law. Individuals, Hindu Undivided Families (HUFs), firms, companies and other persons may have tax obligations depending on their legal status and the applicable provisions. Final tax liability depends on residential status, income sources, exemptions, deductions, losses, applicable rates, tax credits and compliance rules.
+
+2. THE 2026 CHANGE IN INCOME-TAX LAW
+The Income-tax Act, 2025 came into effect on 1 April 2026. The Income-tax Act, 1961 remains relevant for earlier tax periods and proceedings governed by the earlier law. Do not assume that section numbers, forms or terminology under the 1961 Act automatically have identical numbering under the 2025 Act.
+Financial Year (FY) is the twelve-month period from 1 April to 31 March in which income is earned. Under the earlier framework, Assessment Year (AY) is generally the year immediately following the financial year in which income is assessed. The new Act uses the term Tax Year. For example, income earned during FY 2025–26 is generally associated with AY 2026–27 under the earlier framework, while income earned from 1 April 2026 falls under the new Act's tax-year framework. Check official guidance for transitional matters.
+
+3. RESIDENTIAL STATUS
+Residential status is determined using statutory tests, including conditions concerning an individual's presence in India and, in relevant cases, other factors. Citizenship alone does not determine residential status. Residential status can affect the scope of income taxable in India. Residents and non-residents may be taxed differently on Indian-source and foreign-source income. Cross-border cases may also involve tax treaties and require specialist review.
+
+4. THE FIVE HEADS OF INCOME
+Income is generally classified under five heads. Correct classification matters because computation, deductions and loss set-off rules differ.
+
+4.1 SALARY
+Salary income generally arises from an employer–employee relationship. It may include basic pay, dearness allowance, bonus, commission, taxable allowances, perquisites and retirement-related receipts. The treatment of each component depends on the applicable law and tax regime. Form 16 is an employer-issued certificate containing salary and TDS information; it does not necessarily include every other income source of the employee.
+Example: An employee receives salary and fixed-deposit interest. Salary is generally classified under the salary head, while fixed-deposit interest is generally classified under income from other sources.
+
+4.2 INCOME FROM HOUSE PROPERTY
+This head generally concerns income from ownership of a building or land appurtenant to a building, subject to statutory conditions. Let-out and self-occupied properties can have different treatment. Computation may involve annual value, qualifying municipal taxes actually paid, a statutory standard deduction and eligible housing-loan interest. The applicable regime and legal conditions affect deductions. Rent received and profit on sale of a property are different tax concepts: rent may fall under house property, while a taxable gain on transfer may fall under capital gains.
+
+4.3 PROFITS AND GAINS OF BUSINESS OR PROFESSION
+This head covers income from business, trade, vocation or profession, including shops, consultancies, freelancing and professional practices. Computation generally starts with business receipts and adjusts for allowable expenses, disallowances, depreciation and other statutory adjustments. An expense is not automatically deductible merely because it was paid from a business bank account.
+Revenue expenses, such as qualifying recurring subscriptions, may be treated differently from capital assets, such as computers or machinery, which may be subject to depreciation. Books of account, tax audit and presumptive-tax rules depend on the taxpayer's activity and statutory conditions.
+
+4.4 CAPITAL GAINS
+Capital gains may arise when a capital asset is transferred. Examples include land, buildings, shares and mutual-fund units. Computation can require sale consideration, permitted transfer expenses, cost of acquisition, cost of improvement, asset classification, holding period and any eligible exemption. Holding-period rules and tax rates vary by asset and applicable law. Sale price minus original purchase price is not always the final taxable gain.
+
+4.5 INCOME FROM OTHER SOURCES
+This is generally a residual head for taxable income not chargeable under another specific head and not exempt. Examples may include savings-account interest, fixed-deposit interest, certain dividends and family pension, subject to the law. Not every receipt is taxable; gifts, inheritances, reimbursements and other receipts must be checked against the relevant provisions and exclusions.
+
+5. COMPUTING TOTAL INCOME
+A simplified computation sequence is:
+1. Identify income under each of the five heads.
+2. Compute each head according to its rules.
+3. Apply permitted loss set-off and carry-forward rules.
+4. Aggregate the amounts to arrive at gross total income.
+5. Subtract deductions permitted under the applicable law and regime.
+6. Determine total income.
+7. Apply relevant tax rates, rebate, surcharge and cess, where applicable.
+8. Reduce eligible tax credits such as TDS, TCS and advance tax.
+9. Determine whether tax remains payable or a refund is due.
+Special-rate income and other statutory adjustments can make an actual computation more complex.
+
+6. TAX REGIMES
+Eligible taxpayers may be subject to alternative tax regimes. The regimes can differ in rates, deductions, exemptions and conditions. The default regime, ability to opt out and rules for changing an option depend on taxpayer category and the applicable tax year. Taxpayers should compare their complete circumstances, including salary structure, eligible deductions, housing-loan interest, investments, capital gains and business income. Do not assume a deduction available under one regime is also available under another. Use the official tax estimator and current-year guidance for an actual comparison.
+
+7. EXEMPTIONS, DEDUCTIONS, REBATES AND TAX CREDITS
+These terms are different:
+- Exemption: qualifying income or a specified component is excluded from taxable income.
+- Deduction: an eligible amount is subtracted at a prescribed stage in computing taxable income.
+- Rebate: a reduction in tax payable, subject to statutory eligibility and limits.
+- Tax credit: tax already deducted, collected or paid, such as TDS or advance tax, adjusted against final liability.
+Examples of areas that may receive deductions or exemptions under particular regimes include eligible retirement contributions, health insurance, specified savings, education-loan interest, housing-loan interest and specified donations. The exact provision, limit, evidence and regime eligibility must be checked for the relevant year.
+
+8. TDS AND TCS
+Tax Deducted at Source (TDS) is a collection mechanism under which a payer deducts tax from specified payments and deposits it with the Government. It may apply to salary, interest, rent, commission, professional fees, contractor payments and other specified categories. The payer, recipient, payment type, threshold, timing and rate depend on the applicable provision.
+Tax Collected at Source (TCS) is a related mechanism under which a specified seller or other person collects tax on prescribed transactions.
+Useful records include Form 16, Form 16A, Form 26AS, Annual Information Statement (AIS), Taxpayer Information Summary (TIS), bank statements and payslips. Reconcile these records. TDS is not necessarily the final tax liability: excess deduction may result in a refund, while insufficient deduction may leave tax payable.
+
+9. ADVANCE TAX AND SELF-ASSESSMENT TAX
+Advance tax is tax paid during the relevant year as income is earned when statutory conditions apply. It may be relevant where TDS does not sufficiently cover tax on interest, rental, business, professional or capital-gains income. Thresholds, instalments and due dates must be checked for the applicable year and taxpayer category.
+Self-assessment tax is the balance tax paid after computing liability and accounting for TDS, TCS, advance tax and other credits, where a balance remains before filing the return.
+
+10. INCOME-TAX RETURNS
+An income-tax return reports income, deductions, tax payments and tax payable or refundable. The correct ITR form depends on taxpayer category, residential status, income sources, business or professional income, capital gains, foreign assets, directorship, losses and other eligibility conditions.
+A typical process is: identify the relevant tax year; collect salary, bank, investment, rent, capital-gains and business records; review Form 26AS and AIS/TIS; select the correct form; report each income under the correct head; claim eligible deductions; reconcile tax credits; pay any balance tax; submit the return; complete verification; and track processing.
+Submission and verification are separate steps. Filing deadlines and late-filing consequences vary by taxpayer and year.
+
+11. REFUNDS, DEMANDS AND NOTICES
+A refund may arise when eligible tax payments and credits exceed final liability. A demand may arise when additional tax, interest or another amount is determined as payable. A taxpayer should verify notices through official channels, identify the tax period and issue, note the response deadline, review supporting records and respond through the prescribed process. Rectification is available only for specified apparent mistakes; it is not a substitute for every appeal or dispute.
+
+12. RECORD KEEPING
+Useful records include Form 16 and 16A, salary slips, bank statements, interest certificates, rent agreements, housing-loan certificates, investment proofs where relevant, capital-gains statements, purchase and sale documents, business invoices, expense bills, tax challans, return acknowledgements and verification records. Retention periods depend on law and circumstances. Sensitive personal information should not be uploaded to a public demonstration chatbot.
+
+13. WORKED EXAMPLE: SALARY PLUS BANK INTEREST
+A resident employee receives salary, fixed-deposit interest and salary TDS. The employee should classify salary under salary and fixed-deposit interest generally under other sources; identify the relevant tax year and regime; reconcile Form 16, bank records, Form 26AS and AIS/TIS; compute total income and tax; and determine whether a balance payment or refund applies. A numerical answer requires actual income amounts, residential status, tax year, regime, deductions and credits.
+
+14. COMMON MISUNDERSTANDINGS
+- TDS deduction does not automatically remove every return-filing obligation.
+- Form 16 does not necessarily report all income earned by an employee.
+- Bank interest is not generally salary income.
+- Every receipt is not necessarily taxable.
+- Every expense is not necessarily deductible.
+- The old and new regimes do not necessarily permit the same deductions.
+- FY, AY and Tax Year are not interchangeable across the 2026 transition.
+- A tax slab alone does not determine final liability.
+- A submitted return may still require verification.
+
+15. RAG ANSWERING GUIDANCE
+For questions involving rates, thresholds, due dates, forms or statutory sections, identify the relevant tax year. Ask for missing facts when they materially affect the answer. Distinguish general concepts from year-specific rules. Do not invent a rate, deduction limit, deadline or section number. If the indexed documents do not contain enough information, say so and direct the user to current official Income Tax Department guidance.
+
+16. RETRIEVAL KEYWORDS
+Income tax India, Income-tax Act 2025, Income-tax Act 1961, financial year, assessment year, tax year, residential status, five heads of income, salary, house property, business income, professional income, capital gains, other sources, gross total income, total income, tax regimes, deductions, exemptions, rebate, tax credit, TDS, TCS, Form 16, Form 16A, Form 26AS, AIS, TIS, advance tax, self-assessment tax, ITR, refund, demand, notice, rectification.

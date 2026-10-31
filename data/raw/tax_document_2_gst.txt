@@ -1,0 +1,140 @@
+GOODS AND SERVICES TAX (GST) IN INDIA — CONCEPTS, ITC AND COMPLIANCE
+Educational knowledge document for a RAG system.
+Important: GST rates, registration thresholds, exemptions, forms and due dates depend on the transaction date, taxpayer category and current law.
+
+1. OVERVIEW
+Goods and Services Tax (GST) is an indirect tax system in India that applies to supplies of goods or services, or both, subject to the CGST Act, IGST Act, State and Union Territory GST laws, rules, notifications and other provisions. GST is generally collected through businesses making taxable supplies, while the economic burden may ultimately be borne by the final consumer.
+GST is designed as a value-added tax system. Eligible registered businesses may claim input tax credit on qualifying tax paid on business inputs and use eligible credit against output tax liability, subject to statutory conditions and restrictions. GST treatment depends on the nature of supply, supplier and recipient locations, place of supply, time of supply, value, registration status, applicable rate, exemptions and ITC eligibility.
+
+2. COMPONENTS OF GST
+- CGST: Central Goods and Services Tax, generally levied by the Central Government on intra-State supplies.
+- SGST: State Goods and Services Tax, generally levied by the State Government on intra-State supplies within a State.
+- UTGST: Union Territory Goods and Services Tax, generally relevant to intra-Union-Territory supplies where the UTGST framework applies.
+- IGST: Integrated Goods and Services Tax, generally levied on inter-State supplies and certain other supplies such as imports, subject to law.
+For a typical intra-State taxable supply, CGST and SGST (or UTGST, as applicable) are charged together. For a typical inter-State taxable supply, IGST is charged. Place-of-supply provisions must be checked; supplier and recipient addresses alone do not resolve every case.
+
+3. MEANING OF SUPPLY
+GST generally applies to taxable supplies of goods or services or both. Supply can include sale, transfer, barter, exchange, licence, rental, lease or disposal made for consideration in the course or furtherance of business, subject to the law. Some activities may be treated as supply even without consideration when specifically covered by statutory provisions. Certain activities are outside the scope of supply or are neither goods nor services for GST purposes.
+Goods generally refer to movable property other than money and securities, subject to statutory definitions. Services generally cover activities other than goods, money and securities, subject to the law.
+To analyse a transaction, identify what is supplied, whether it is a supply, whether consideration exists or an exception applies, whether it is taxable or exempt, the place and time of supply, value, rate and person liable to pay tax.
+
+4. INTRA-STATE, INTER-STATE AND PLACE OF SUPPLY
+The distinction between intra-State and inter-State supply determines which GST component generally applies. Place-of-supply rules classify the transaction.
+For goods, place of supply may depend on movement, where movement terminates for delivery, delivery to a recipient or another person on a third party's direction, or installation and assembly at a site. For services, rules vary by category. The general rule may consider the recipient's location, but special rules can apply to services relating to immovable property, events, transportation, online services and other specified categories.
+Do not determine IGST versus CGST/SGST solely from the billing address or payment location. Apply the statutory rule for the particular supply.
+
+5. GST REGISTRATION
+GST registration identifies a person as a registered taxpayer. Registration obligations depend on statutory turnover thresholds, nature of activity, State or Union Territory, type of supply and compulsory-registration provisions.
+Aggregate turnover is a statutory measure generally calculated on an all-India basis for a person having the same PAN, subject to the definition and exclusions. It is not necessarily the turnover of only one branch or GSTIN. A GSTIN is a unique Goods and Services Tax Identification Number allotted to a registered person.
+Some categories may be required to register even when ordinary turnover thresholds are not crossed, subject to statutory exceptions and notifications. Voluntary registration may be available, but it brings compliance responsibilities. Registration details may need amendment when legal name, business locations or other particulars change. Cancellation and revocation follow prescribed procedures.
+Never give a universal registration threshold without checking the relevant State, supply type, date and current notification.
+
+6. GSTIN AND REGISTRATION RECORDS
+A GSTIN is a 15-character identification number. It includes a State code, a PAN-based component, an entity number within the PAN, a default character and a check character. GSTIN is used in invoices, returns, e-way bills and other compliance records.
+Registered persons should keep legal name, trade name, principal place of business, additional places, nature of business and authorised signatory information accurate. Verify a GSTIN through official GST portal facilities before relying on it.
+
+7. VALUE OF SUPPLY AND GST RATE
+GST is generally calculated on the value of a taxable supply using the applicable rate. Value of supply may include amounts that law requires to be included, such as certain incidental expenses or fees, and may exclude permitted discounts when statutory conditions are satisfied.
+The rate depends on classification, applicable rate notifications, exemptions, conditions and date of supply. HSN codes are used for goods and SAC codes for services. Do not assume all goods or services have the same rate. Correct classification may require product specifications, composition, intended use, service description and current notifications.
+
+8. TAX INVOICE AND OTHER DOCUMENTS
+A registered supplier generally issues a tax invoice for taxable supplies when required. A tax invoice may contain prescribed particulars such as supplier name, address and GSTIN; consecutive invoice number and date; recipient details and GSTIN where applicable; HSN or SAC; description and quantity; taxable value; tax rate and tax amount; place of supply; reverse-charge indication where applicable; and prescribed signature or digital authentication.
+A bill of supply is generally used in specified situations where a tax invoice is not issued, such as certain exempt supplies or supplies by a composition taxpayer, subject to rules.
+A credit note may be issued in prescribed circumstances, for example where taxable value or tax charged exceeds what is payable, goods are returned or a supply is deficient. A debit note may be used where taxable value or tax charged was less than what is payable. Reporting and time limits must be checked. An invoice is not by itself proof that every ITC condition has been met.
+
+9. TIME OF SUPPLY
+Time of supply determines when GST liability arises. Different rules can apply to goods and services, forward charge, reverse charge, vouchers, changes in tax rates and other situations. The relevant date may depend on invoice issuance, provision of service, receipt of payment, receipt of goods, books of account or other statutory events. The date money reaches a bank account does not always determine the time of supply.
+
+10. INPUT TAX CREDIT (ITC)
+Input Tax Credit allows an eligible registered person to claim credit for qualifying GST charged on goods or services used or intended to be used in the course or furtherance of business, subject to statutory conditions, restrictions and documentation requirements. ITC can reduce net output tax payable, but it is not an unconditional refund of every GST amount paid by a business.
+Common conditions include:
+- The claimant is registered and eligible.
+- The claimant possesses a prescribed tax invoice, debit note or other permitted document.
+- Goods or services have been received, subject to applicable rules.
+- Supplier-reported information and other statutory requirements are satisfied.
+- The credit is not blocked or otherwise restricted.
+- The recipient has furnished the required return.
+- The claim is made within the applicable time limit.
+ITC may be blocked for specified goods or services or restricted for personal use, non-business purposes, exempt supplies or other cases covered by law. Examples can include certain motor vehicles and related services, specified food or personal-consumption items, works contracts or construction-related cases, and goods lost, stolen, destroyed, written off or disposed of by gift or free samples. Exceptions and detailed wording matter; check the current provision before deciding eligibility.
+
+11. ITC UTILISATION AND REVERSAL
+Eligible ITC is used to discharge output tax liability according to statutory utilisation rules. IGST, CGST, SGST and UTGST credits are not one freely interchangeable balance. The order and cross-utilisation rules are prescribed by law.
+ITC may require reversal or adjustment where inputs are used partly for non-business purposes or exempt supplies, where a prescribed supplier-payment condition is not met, where credit becomes ineligible, or where credit notes and other statutory adjustments apply.
+Maintain invoice-level records and reconcile purchase registers, supplier-reported data, electronic credit ledger and returns. An auto-populated statement is a reconciliation tool, not automatic proof of final eligibility.
+
+12. REVERSE CHARGE MECHANISM (RCM)
+Under reverse charge, the recipient rather than the supplier is liable to pay GST for specified categories of supply or transactions. It applies only where the law or a valid notification provides for it; parties cannot choose it merely by agreement.
+A recipient liable under reverse charge must determine, report and pay tax in the prescribed manner. Eligibility to claim ITC of reverse-charge tax is a separate question and depends on applicable conditions. Check the supply category, supplier status, recipient status and notification.
+
+13. EXEMPT, NIL-RATED, NON-TAXABLE AND ZERO-RATED SUPPLIES
+These terms are not interchangeable.
+- Exempt supply: a supply exempt under law or notification and potentially including specified non-taxable supplies under the statutory definition.
+- Nil-rated supply: a taxable classification for which the notified rate is nil.
+- Non-taxable supply: a supply not leviable to GST under the applicable charging provisions.
+- Zero-rated supply: generally exports and supplies to a Special Economic Zone developer or unit for authorised operations, subject to law.
+Zero-rated supplies can have different ITC and refund treatment from ordinary exempt supplies. Export and SEZ documentation and procedures must be followed.
+
+14. GST RETURNS
+GST returns are prescribed electronic statements filed by registered taxpayers. Return type and frequency depend on registration category, turnover, scheme and current rules.
+- GSTR-1: details of outward supplies for applicable taxpayers.
+- GSTR-3B: summary return used to report tax liability, ITC and payment, subject to current procedure.
+- GSTR-2A and GSTR-2B: auto-drafted inward-supply information statements used for reconciliation. They do not replace the taxpayer's own ITC eligibility analysis.
+- Annual return: prescribed annual statement for taxpayers required to file it, subject to exemptions and thresholds.
+- Composition taxpayers: separate statements and return procedures apply.
+Forms, due dates, frequency and applicability can change. Use the current GST portal and notifications rather than an old filing calendar.
+
+15. TYPICAL GST COMPLIANCE PROCESS
+1. Record outward supplies and purchase invoices.
+2. Reconcile sales data with invoices and accounting records.
+3. Review credit notes, debit notes, advances and adjustments.
+4. Reconcile purchase records with supplier-reported information.
+5. Determine eligible ITC and reversals.
+6. Compute output tax and available credit.
+7. Pay balance tax through permitted electronic ledgers.
+8. File applicable returns by prescribed due dates.
+9. Reconcile filed returns with books and preserve acknowledgements.
+
+16. ELECTRONIC LEDGERS AND TAX PAYMENT
+The GST portal maintains:
+- Electronic cash ledger: records cash deposited for tax, interest, penalty, fees and other permitted amounts.
+- Electronic credit ledger: records eligible ITC available for permitted utilisation against output tax liabilities.
+- Electronic liability register: records tax, interest, penalty, fee and other amounts payable.
+Cash and credit are different. ITC generally cannot be used for every type of liability; interest, late fee and penalty generally require payment through the cash ledger, subject to law.
+
+17. COMPOSITION SCHEME
+The composition scheme is a simplified tax-payment and compliance option for eligible small taxpayers who satisfy prescribed conditions. It may reduce compliance complexity but has restrictions and is not suitable for every business.
+A composition taxpayer generally pays tax at a prescribed composition rate and follows a simplified compliance process. Restrictions can include limits on types of supplies, restrictions on certain inter-State outward supplies, restrictions on collecting tax separately from customers and inability to claim ordinary ITC. Exact eligibility and conditions depend on the business and current law.
+A business should consider turnover, customer base, supply locations, input-tax burden, business model and compliance requirements. Small size alone does not establish eligibility or suitability.
+
+18. E-WAY BILL AND E-INVOICING
+An e-way bill is an electronic document for movement of goods when prescribed conditions are met. Applicability may depend on consignment value, movement, supplier or recipient status, distance and exemptions.
+E-invoicing requires specified taxpayers to report prescribed invoice data to an Invoice Registration Portal and obtain an Invoice Reference Number and signed QR code, subject to applicability and exemptions. It is not simply emailing a PDF invoice. Thresholds, exemptions, time limits and technical procedures can change.
+
+19. GST NOTICES, INTEREST AND PENALTIES
+GST law provides for scrutiny, assessment, audit, investigation, demand and recovery. Interest may apply to delayed payment or specified defaults. Penalties may apply to contraventions, subject to statutory provisions and reliefs.
+When a notice is received, verify it through an official channel; identify GSTIN, tax period, provision and issue; compare it with invoices, returns, ledgers and books; note the response deadline; prepare a factual reconciliation; respond through the prescribed process; and retain acknowledgement. A mismatch does not automatically establish fraud; investigate the source records and legal provision.
+
+20. WORKED EXAMPLE: LOCAL SALE WITH ITC
+A registered trader purchases eligible business goods from a supplier. The supplier issues a tax invoice, the trader receives the goods and later sells them to a customer in the same State. The trader should review invoice particulars, receipt of goods, supplier-reported information, ITC conditions and blocked-credit rules. The trader then determines the taxable value and applicable rate on the outward sale. If the supply is intra-State, CGST and SGST generally apply. Eligible ITC is used according to statutory utilisation rules and any remaining liability is paid and reported.
+Illustrative arithmetic only: if eligible input tax credit is 100 units and output tax liability is 160 units in a relevant permitted tax head, the conceptual balance before other adjustments is 60 units. Actual utilisation depends on tax heads and statutory set-off rules. These units are not a current GST rate.
+
+21. WORKED EXAMPLE: INTER-STATE SALE
+A supplier in State A sells goods to a recipient in State B and the goods move from State A to State B. The supplier applies the relevant place-of-supply rule. If the transaction is inter-State under the law, IGST generally applies. The supplier issues the prescribed invoice and checks e-way bill requirements where applicable. Special transaction rules may change the result.
+
+22. COMMON MISUNDERSTANDINGS
+- GST registration is not required by every business in every circumstance.
+- A GSTIN does not mean every supply made by that person is taxable.
+- IGST is not simply an extra tax added to CGST and SGST for the same ordinary supply.
+- Place of supply is not always the billing address.
+- Every purchase invoice does not automatically qualify for ITC.
+- GSTR-2A or GSTR-2B does not replace ITC eligibility checks.
+- Composition taxpayers generally cannot claim ordinary ITC and have other restrictions.
+- Exempt and zero-rated supplies are different.
+- E-invoicing and e-way bills are different systems.
+- Return filing and tax payment are related but distinct obligations.
+
+23. RAG ANSWERING GUIDANCE
+For GST questions, identify transaction date, supplier and recipient locations, goods or service description, registration status, place of supply, scheme, tax period and relevant document. Ask for missing facts when they affect the answer. Do not invent GST rates, HSN/SAC classifications, registration thresholds, return due dates or ITC eligibility. These require current notifications and transaction-specific facts. If the indexed documents do not establish a rule, state that more information or an authoritative current source is required.
+
+24. RETRIEVAL KEYWORDS
+GST India, CGST, SGST, UTGST, IGST, intra-State supply, inter-State supply, place of supply, time of supply, value of supply, goods, services, taxable supply, exempt supply, nil-rated supply, non-taxable supply, zero-rated supply, GST registration, aggregate turnover, GSTIN, HSN, SAC, tax invoice, bill of supply, credit note, debit note, input tax credit, ITC, blocked credit, ITC reversal, reverse charge, RCM, GSTR-1, GSTR-3B, GSTR-2A, GSTR-2B, electronic cash ledger, electronic credit ledger, electronic liability register, composition scheme, e-way bill, e-invoicing, GST payment, GST refund, GST notice, GST audit.
